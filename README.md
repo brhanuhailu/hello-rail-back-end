@@ -29,7 +29,7 @@
 
 # Hello world- <a name="about-project"></a>
 
-**hello-rails-back-end** Rails and React, it's time to put them together in a new kind of 'Hello World!' app. This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message. In this case only Rails back-end has been implemented. And the React front-end will be linked here
+**hello-rails-back-end** Rails and React, it's time to put them together in a new kind of 'Hello World!' app. This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message. In this case only Rails back-end has been implemented. And the React front-end  linked here
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
