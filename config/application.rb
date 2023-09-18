@@ -18,5 +18,18 @@ module HelloRailBackEnd
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    class Application < Rails::Application
+      # ...
+    
+      # Enable Cross-Origin Resource Sharing (CORS)
+      # config.middleware.insert_before 0, Rack::Cors do
+      #   allow do
+      #     origins 'http://localhost:3000' # Add any other allowed origins as needed
+      #     resource '*', headers: :any, methods: [:get, :post, :options]
+      #   end
+      # end
+    
+      # ...
+    end
   end
 end
