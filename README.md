@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>hello-rails-back-end</b></h3>
+  <h3><b>hello-rails-back-end app</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -52,7 +52,7 @@
 ## Key Features <a name="key-features"></a>
 
 - Create an API endpint by rails.
-- Generate message in the form of json.
+- Generate Random message in the form of json.
 - Connect with React app
 
 <!-- GETTING STARTED -->
